@@ -10,7 +10,7 @@ building them from scratch and then with PyTorch.
 
 **Section 1 — Neurons by hand (NumPy)**
 **Section 2 — A real feedforward network (PyTorch)**
-**Section 2 — Reflection**
+**Section 3 — Reflection**
 
 ## Key result
 
